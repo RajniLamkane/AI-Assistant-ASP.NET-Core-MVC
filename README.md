@@ -43,11 +43,13 @@ The application provides formatted responses using Markdown, including headings,
 
 ### AI Assistant – Welcome Screen
 
-![AI Assistant Welcome Screen](Screenshots/AI-Assistant-Welcome.png)
+<img width="1917" height="1015" alt="Screenshot 2026-10-27 013539" src="https://github.com/user-attachments/assets/1101fa01-e4fe-448e-8a6d-a1eb5e35abc3" />
+
 
 ### AI Assistant – Generated Response
 
-![AI Assistant Response](Screenshots/AI-Assistant.png)
+<img width="1723" height="913" alt="C# AI Assistant Chat Interface" src="https://github.com/user-attachments/assets/52d89c17-9779-4441-8496-b59f0264bf00" />
+
 
 ## ⚙️ Application Workflow
 
